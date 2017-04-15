@@ -1,0 +1,20 @@
+Hi.
+
+You just sent the below message which has information that is only available in an image.  Because of this, it is:
+
+* hard or even impossible for visually-impaired people to read. Some use screen-reader software which will not be able to relay the message as audio.
+
+* very hard to locate later using the email client's search function. It requires manually scrolling through all message by hand.
+
+* requires manually retyping of the information in order to add it to an electronic calendar.  This is not only tedious but increases the risk for typos in event date and location.
+
+
+If the message you've sent had contained text-based information, none of the above would be an issue.
+
+So, please consider writing messages and announcements using plain text in addition to image-only information as used here.  When sharing poster-style announcements, even attaching the original PDF is likely to be helpful (as long as the PDF contains text that can be cut 'n' pasted and is not itself an image).
+
+If you're not the original author, please relay this message back to that person.
+
+All the best,
+
+<your name>
